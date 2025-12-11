@@ -2,7 +2,7 @@ from fastapi import FastAPI
 app = FastAPI()
 @app.get("/")
 async def index():
-    return "Hello World!"
+    return "Welcome to the Test server Lucatang !"
 @app.get("/test")
 async def test():
-    return "test"
+    return "test Lucatang"
