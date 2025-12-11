@@ -1,0 +1,5 @@
+# venv
+/rdsenv
+
+#cache
+/__pycache__/
